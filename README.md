@@ -49,7 +49,7 @@
 
 ###
 
-<p align="center">"To fools who are easily deceived"</p>
+<p align="center" style="  font-size: 3rem; font-weight: bold;">The Paragon of Virtue</p>
 
 ###
 
@@ -73,8 +73,7 @@
 
 ###
 
-<h1 align="center">The Paragon of Virtue</h1>
-
+<p align="center">"To fools who are easily deceived"</p>
 ###
 
 <br clear="both">
