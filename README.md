@@ -113,4 +113,7 @@
 </div>
 
 ###
-
+<div align="center">
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=orangemintz&theme=tokyonight) | 
+</div>
+###
