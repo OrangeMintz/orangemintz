@@ -109,7 +109,7 @@
 ###
 
 <div align="center">
-    <img style="margin-top: 1000px;" src="https://github-readme-activity-graph.vercel.app/graph?username=orangemintz&radius=8&theme=tokyo-night&area=true&order=5&hide_title=false&custom_title=Contribution%20Graph" height="400" alt="activity-graph graph"  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=orangemintz&radius=8&theme=tokyo-night&area=true&order=5&hide_title=false&custom_title=Contribution%20Graph" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
