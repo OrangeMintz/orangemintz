@@ -100,7 +100,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orangemintz&radius=8&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
+  <img style="padding: 10px;" src="https://github-readme-activity-graph.vercel.app/graph?username=orangemintz&radius=8&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
