@@ -93,6 +93,8 @@
   <img src="https://streak-stats.demolab.com?user=orangemintz&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/orangemintz/orangemintz/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <h2 align="left">📅 Productive Schedules :</h2>
