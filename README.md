@@ -40,15 +40,20 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=orangemintz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orangemintz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
 <img align="right" height="200" src="https://i.ppy.sh/8ef60ab74248d98a8bc618baa11823180921a156/68747470733a2f2f696d6775722d617263686976652e7070792e73682f466564695450532e676966"  />
 
 ###
 
-<h2 align="center">The Paragon of Virtue</h2>
-
-###
-
-<p align="center">"To fools who are easily deceived"</p>
+<h1 align="center">The Paragon of Virtue</h1>
 
 ###
 
@@ -68,6 +73,22 @@
   <a href="https://www.instagram.com/orangemint57/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="46" height="34" alt="instagram logo"  />
   </a>
+</div>
+
+###
+
+<p align="center">"To fools who are easily deceived"</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/orangemintz/orangemintz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/orangemintz/count.svg?"  />
 </div>
 
 ###
