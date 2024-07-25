@@ -27,6 +27,12 @@
     <a href="Nickzgacus@gmail.com"> <img
             src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="gmail logo" /> </a>
+    <a href="https://www.reddit.com/user/OrangeMintz/"> <img
+            src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge"
+            height="35" alt="reddit logo" /> </a>
+    <a href="https://facebook.com/OrangeMintz"> <img
+            src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge"
+            height="35" alt="reddit logo" /> </a>
 </div>
 
 ###
