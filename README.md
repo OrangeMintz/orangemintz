@@ -9,6 +9,11 @@
 
 ###
 
+<img align="center" height="200"
+  src="https://i.ppy.sh/8ef60ab74248d98a8bc618baa11823180921a156/68747470733a2f2f696d6775722d617263686976652e7070792e73682f466564695450532e676966" />
+
+###
+
 <h2 align="left">🌐 Socials :</h2>
 
 ###
@@ -86,10 +91,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.ppy.sh/8ef60ab74248d98a8bc618baa11823180921a156/68747470733a2f2f696d6775722d617263686976652e7070792e73682f466564695450532e676966"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=orangemintz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
@@ -108,3 +109,4 @@
 </div>
 
 ###
+
