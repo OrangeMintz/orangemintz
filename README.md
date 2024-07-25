@@ -1,6 +1,6 @@
 <h1 align="center">"The Paragon of Virtue"</h1>
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=orangemintz.orangemintz&" height="35" alt="visitors" />
+    <img src="https://profile-counter.glitch.me/orangemintz/count.svg?" height="20" alt="visitors" />
 </div>
 
 <div align="center">
