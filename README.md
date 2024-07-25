@@ -4,13 +4,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=orangemintz&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img align="center" height="200"
+  src="https://i.ppy.sh/8ef60ab74248d98a8bc618baa11823180921a156/68747470733a2f2f696d6775722d617263686976652e7070792e73682f466564695450532e676966" />
 </div>
 
 ###
 
-<img align="center" height="200"
-  src="https://i.ppy.sh/8ef60ab74248d98a8bc618baa11823180921a156/68747470733a2f2f696d6775722d617263686976652e7070792e73682f466564695450532e676966" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=orangemintz&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
