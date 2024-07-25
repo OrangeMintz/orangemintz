@@ -83,7 +83,7 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h2 align="left">🔥 My Stats :</h2>
 
 ###
 
@@ -107,7 +107,7 @@
 
 ###
 
-<h3 align="left">💲 Donations :</h3>
+<h2 align="left">💲 Donations :</h2>
 
 <div align="center">
     <a href="https://paypal.me/OrangeMint57?country.x=PH&locale.x=en_US"><img
