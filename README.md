@@ -94,7 +94,7 @@
 ###
 
 <div align="center">
-  <img
+  <img 
     src="https://github-readme-stats.vercel.app/api?username=orangemintz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1"
     height="200" alt="stats graph" />
   <img
@@ -108,7 +108,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="margin-top:-100px;>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=orangemintz&radius=8&theme=tokyo-night&area=true&order=5&hide_title=false&custom_title=Contribution%20Graph" height="400" alt="activity-graph graph"  />
 </div>
 
