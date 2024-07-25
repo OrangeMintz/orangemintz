@@ -108,8 +108,8 @@
 
 ###
 
-<div style="margin-top:-100px; align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orangemintz&radius=8&theme=tokyo-night&area=true&order=5&hide_title=false&custom_title=Contribution%20Graph" height="400" alt="activity-graph graph"  />
+<div align="center" style="margin-top: -400px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=orangemintz&radius=8&theme=tokyo-night&area=true&order=5&hide_title=false&custom_title=Contribution%20Graph" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
