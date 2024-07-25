@@ -49,7 +49,7 @@
 
 ###
 
-<p font-size: 3rem; font-weight: bold; text-align:center;">The Paragon of Virtue</p>
+<p align="center" font-size: 10rem; font-weight: bold;">The Paragon of Virtue</p>
 
 ###
 
