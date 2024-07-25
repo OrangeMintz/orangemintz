@@ -86,6 +86,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
   <img src="https://skillicons.dev/icons?i=regex&theme=dark" height="40" alt="putty logo"  />
   
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orangemintz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
