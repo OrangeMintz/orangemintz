@@ -76,7 +76,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="40" alt="express logo"  />
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="40" alt="putty logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
