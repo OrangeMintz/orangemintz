@@ -35,7 +35,7 @@
             height="35" alt="gmail logo" /> </a>
     <a href="https://facebook.com/OrangeMintz"> <img
             src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="reddit logo" /> </a>
+            height="35" alt="facebook logo" /> </a>
     <a href="https://www.reddit.com/user/OrangeMintz/"> <img
             src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="reddit logo" /> </a>
@@ -109,7 +109,17 @@
 ###
 
 <div align="center">
-    <img style="margin-top: -200rem;"  src="https://github-readme-activity-graph.vercel.app/graph?username=orangemintz&radius=8&theme=tokyo-night&area=true&order=5&hide_title=false&custom_title=Contribution%20Graph" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orangemintz&radius=8&theme=tokyo-night&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h3 align="left">💲 Donations :</h3>
+
+<div align="center">
+    <a href="https://paypal.me/OrangeMint57?country.x=PH&locale.x=en_US"><img
+            src="https://img.shields.io/static/v1?message=Paypal&logo=paypal&label=&color=0079C1&logoColor=white&labelColor=&style=for-the-badge"
+            height="35" alt="paypal logo" /> </a>
 </div>
 
 ###
