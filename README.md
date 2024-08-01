@@ -3,8 +3,6 @@
     <img src="https://profile-counter.glitch.me/orangemintz/count.svg?" height="27" alt="visitors" />
 </div>
 
-###
-
 <div align="center">
 <img align="center" height="200"
   src="https://i.ppy.sh/8ef60ab74248d98a8bc618baa11823180921a156/68747470733a2f2f696d6775722d617263686976652e7070792e73682f466564695450532e676966" />
