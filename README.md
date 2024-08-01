@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🌎 About Me :</h4>
+<h3 align="left">🌎 About Me :</h3>
 
 - 🔭 I’m currently 4th year student, working on my **Capstone Project**
 - 🌱 I’m currently learning **Web Technologies, IoT Driven Projects and Ethical Hacking**
@@ -43,7 +43,7 @@
 <div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm...;Also%2C+I+love+my+%E2%99%A1Fumo%E2%99%A1" alt="Typing SVG" /></a>
 </div>
 
-<h4 align="left">💻 Tech Stack :</h4>
+<h3 align="left">💻 Tech Stack :</h3>
 
 ###
 
@@ -98,7 +98,7 @@
 
 ###
 
-<h4 align="left">🔥 My Stats :</h4>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
@@ -116,7 +116,7 @@ alt="stats graph"/>
 
 ###
 
-<h4 align="left">📅 Productive Schedules :</h4>
+<h3 align="left">📅 Productive Schedules :</h3>
 
 ###
 
@@ -128,7 +128,7 @@ alt="stats graph"/>
 
 ###
 
-<h4 align="left">💲 Donations :</h4>
+<h3 align="left">💲 Donations :</h3>
 
 ###
 
