@@ -3,6 +3,8 @@
     <img src="https://profile-counter.glitch.me/orangemintz/count.svg?" height="27" alt="visitors" />
 </div>
 
+###
+
 <div align="center">
 <img align="center" height="200"
   src="https://i.ppy.sh/8ef60ab74248d98a8bc618baa11823180921a156/68747470733a2f2f696d6775722d617263686976652e7070792e73682f466564695450532e676966" />
@@ -16,6 +18,8 @@
 - 🌱 I’m currently learning **Web Technologies, IoT Driven Projects and Ethical Hacking**
 - 🥅 2024 Goals: Accomplishing **Capstone 3** and learning The fundamentals of **Cyber Security**
 - ⚡ Fun fact: I love **FUMOs!**
+
+###
 
 <div align="center">
     <a href="https://www.youtube.com/@OrangeMintz"><img
@@ -105,15 +109,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" 
-alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=OrangeMintz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=orangemintz&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=orangemintz&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" 
+alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=OrangeMintz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ###
@@ -132,10 +136,10 @@ alt="stats graph"/>
 
 <h2 align="left">💲 Donations :</h2>
 
+###
+
 <div align="center">
     <a href="https://paypal.me/OrangeMint57?country.x=PH&locale.x=en_US"><img
             src="https://img.shields.io/static/v1?message=Paypal&logo=paypal&label=&color=0079C1&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="paypal logo" /> </a>
 </div>
-
-###
