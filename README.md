@@ -12,9 +12,9 @@
 
 <h2 align="left">🌎 About Me :</h2>
 
-- 🔭 I’m currently working on my **Capstone Project**
+- 🔭 I’m currently 4th year student, working on my **Capstone Project**
 - 🌱 I’m currently learning **Web Technologies, IoT Driven Projects and Ethical Hacking**
-- 🥅 2024 Goals: Accomplishing **Capstone 3** and learning **Ethical Hacking**
+- 🥅 2024 Goals: Accomplishing **Capstone 3** and learning The fundamentals of **Cyber Security**
 - ⚡ Fun fact: I love **FUMOs!**
 
 <div align="center">
