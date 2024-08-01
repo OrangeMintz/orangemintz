@@ -10,21 +10,12 @@
 
 ###
 
-<h2 align="left">💫 About :</h2>
+<h2 align="left">🌎 About Me :</h2>
 
 - 🔭 I’m currently working on my **Capstone Project**
 - 🌱 I’m currently learning **Web Technologies, IoT Driven Projects and Ethical Hacking**
 - 🥅 2024 Goals: Accomplishing **Capstone 3** and learning **Ethical Hacking**
-- ⚡ Fun fact: I love **FUMO!**
-
-<div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm;Also%2C+I+love+my+%E2%99%A1Fumo%E2%99%A1" alt="Typing SVG" /></a>
-</div>
-
-###
-
-<h2 align="left">🌐 Socials :</h2>
-
-###
+- ⚡ Fun fact: I love **FUMOs!**
 
 <div align="center">
     <a href="https://www.youtube.com/@OrangeMintz"><img
@@ -35,7 +26,7 @@
             height="35" alt="instagram logo" /> </a>
     <a href="https://discord.com/users/505809822239948806"> <img
             src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="discord logo" /></a>
+            height="35" alt="discord logo" /> </a>
     <a href="Nickzgacus@gmail.com"> <img
             src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="gmail logo" /> </a>
@@ -45,6 +36,9 @@
     <a href="https://www.reddit.com/user/OrangeMintz/"> <img
             src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="reddit logo" /> </a>
+</div>
+
+<div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm;Also%2C+I+love+my+%E2%99%A1Fumo%E2%99%A1" alt="Typing SVG" /></a>
 </div>
 
 ###
