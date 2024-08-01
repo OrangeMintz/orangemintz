@@ -93,7 +93,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orangemintz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrangeMintz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -103,12 +103,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=orangemintz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-    
-  <img src="https://streak-stats.demolab.com?user=orangemintz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" 
+alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=OrangeMintz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/orangemintz/orangemintz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/orangemintz/OrangeMintz/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -117,7 +117,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=orangemintz&radius=8&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&radius=8&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
