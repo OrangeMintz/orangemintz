@@ -10,8 +10,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=orangemintz&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="100" alt="trophy graph"  />
+<h2 align="left">💫 About :</h2>
+
+- 🔭 I’m currently working on my **Capstone Project**
+- 🌱 I’m currently learning **Web Technologies, IoT Driven Projects and Ethical Hacking**
+- 🥅 2024 Goals: Accomplishing **Capstone 3** and learning **Ethical Hacking**
+- ⚡ Fun fact: I love **FUMO!**
+
+<div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm;Also%2C+I+love+my+%E2%99%A1Fumo%E2%99%A1" alt="Typing SVG" /></a>
 </div>
 
 ###
@@ -108,7 +114,11 @@ alt="stats graph"/>
   <img src="https://streak-stats.demolab.com?user=OrangeMintz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/orangemintz/OrangeMintz/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=orangemintz&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
+</div>
 
 ###
 
@@ -119,6 +129,8 @@ alt="stats graph"/>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&radius=8&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/orangemintz/OrangeMintz/output/snake.svg" alt="Snake animation" />
 
 ###
 
