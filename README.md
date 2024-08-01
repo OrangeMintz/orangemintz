@@ -40,12 +40,8 @@
             height="35" alt="reddit logo" /> </a>
 </div>
 
-###
-
 <div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm;Also%2C+I+love+my+%E2%99%A1Fumo%E2%99%A1" alt="Typing SVG" /></a>
 </div>
-
-###
 
 <h2 align="left">💻 Tech Stack :</h2>
 
