@@ -93,7 +93,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrangeMintz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrangeMintz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -117,7 +117,7 @@ alt="stats graph"/>
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&radius=8&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=true" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&radius=8&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
