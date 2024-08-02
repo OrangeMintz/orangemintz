@@ -1,6 +1,6 @@
 <h1 align="center">"The Paragon of Virtue"</h1>
 <div align="center">
-    <img src="https://profile-counter.glitch.me/OrangeMintz/count.svg?" height="27" alt="visitors" />
+    <img src="https://profile-counter.glitch.me/orangemintz/count.svg?" height="27" alt="visitors" />
 </div>
 
 <div align="center">
