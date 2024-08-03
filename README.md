@@ -7,7 +7,7 @@
 <img align="center" height="200" src="https://github.com/OrangeMintz/orangemintz/blob/main/GIF/ChuChu.gif" />
 </div>
 
-###
+<br>
 
 <h3 align="left">🌎 About Me :</h3>
 
@@ -104,9 +104,6 @@ alt="stats graph"/>
 ###
 
 <h3 align="left">📅 Productive Schedules :</h3>
-
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&radius=8&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
 </div>
