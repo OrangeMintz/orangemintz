@@ -94,6 +94,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrangeMintz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMintz&theme=radical&layout=donut" height="200" alt="languages donut chart"  />
+
 </div>
 
 ###
@@ -111,6 +113,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" 
 alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=OrangeMintz&theme=radical&layout=compact&langs_count=6&custom_title=Time%20Well%20Spent"/>
   <img src="https://streak-stats.demolab.com?user=OrangeMintz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
