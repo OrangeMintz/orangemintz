@@ -102,7 +102,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&show_icons=true&theme=radical&rank_icon=github" height="200" 
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&card_width=100&show_icons=true&theme=radical&rank_icon=github" height="200" 
 alt="stats graph"/>
   <img src="https://streak-stats.demolab.com?user=OrangeMintz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
