@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img align="center" height="200" src="https://github.com/OrangeMintz/orangemintz/blob/main/GIF/ChuChu.gif" />
+<img align="center" height="220" src="https://github.com/OrangeMintz/orangemintz/blob/main/GIF/Ougi.gif" />
 </div>
 
 <br>
