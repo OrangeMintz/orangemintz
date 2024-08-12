@@ -105,10 +105,7 @@ alt="stats graph"/>
 
 <h3 align="left">📅 Productive Schedule :</h3>
 <img src="https://raw.githubusercontent.com/OrangeMintz/orangemintz/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&radius=8&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&radius=8&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
 
 <h3 align="left">💲 Donations :</h3>
 
