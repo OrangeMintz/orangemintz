@@ -65,8 +65,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/express/dddddd" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/" height="40" alt="postman logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
