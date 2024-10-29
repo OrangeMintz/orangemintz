@@ -98,8 +98,8 @@
 alt="stats graph"/>
   <img src="https://streak-stats.demolab.com?user=OrangeMintz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
     
-<h3 align="left">📅 Productive Schedule :</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&radius=8&theme=redical&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
+<h3 align="left">📅 Productive Stats :</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&radius=8&theme=redical&area=true&order=5&custom_title=Daily%20Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
 <img src="https://raw.githubusercontent.com/OrangeMintz/orangemintz/output/snake.svg" alt="Snake animation" />
 </div>
 
