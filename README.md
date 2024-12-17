@@ -10,27 +10,6 @@
 <div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm...;If+you+can't+be+medicine,+be+poison.;" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-    <a href="https://www.youtube.com/@OrangeMintz"><img
-            src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="youtube logo" /> </a>
-    <a href="https://www.instagram.com/OrangeMint57/"> <img
-            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="instagram logo" /> </a>
-    <a href="https://discord.com/users/505809822239948806"> <img
-            src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="discord logo" /> </a>
-    <a href="Nickzgacus@gmail.com"> <img
-            src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="gmail logo" /> </a>
-    <a href="https://facebook.com/OrangeMintz"> <img
-            src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0866FF&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="facebook logo" /> </a>
-    <a href="https://www.reddit.com/user/OrangeMintz/"> <img
-            src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="reddit logo" /> </a>
-</div>
-
 <br>
 
 <h3 align="left">🌎 About Me :</h3>
@@ -45,31 +24,8 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/dddddd" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/f14e32" height="40" alt="git logo"  />
+    
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,blender,html,css,js,php,laravel,vite,express,nodejs,mongodb,mysql,postman,anaconda,arduino,java,kali,linux&perline=10)](https://skillicons.dev)
 
 ###
 
