@@ -75,7 +75,12 @@
 ###
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![How NOT to die in "Red Forest" - S.T.A.L.K.E.R Gamma](https://ytcards.demolab.com/?id=5m5Mosxw89w&title=How+NOT+to+die+in+%22Red+Forest%22+-+S.T.A.L.K.E.R+Gamma&lang=en&timestamp=1720874345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How NOT to die in \"Red Forest\" - S.T.A.L.K.E.R Gamma")](https://www.youtube.com/watch?v=5m5Mosxw89w)
+[![HardwareTech PV | Hardware and Software |](https://ytcards.demolab.com/?id=R6IgODoB7o8&title=HardwareTech+PV+%7C+Hardware+and+Software+%7C&lang=en&timestamp=1665676144&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HardwareTech PV | Hardware and Software |")](https://www.youtube.com/watch?v=R6IgODoB7o8)
+[![How to Download Free Minecraft With Multiplayer (FREE)](https://ytcards.demolab.com/?id=Ju0PwqObzg4&title=How+to+Download+Free+Minecraft+With+Multiplayer+%28FREE%29&lang=en&timestamp=1441407901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Download Free Minecraft With Multiplayer (FREE)")](https://www.youtube.com/watch?v=Ju0PwqObzg4)
+[![How to teleport In Minecraft 1.7.+ And 1.8.+](https://ytcards.demolab.com/?id=QlD9FwUGpi0&title=How+to+teleport+In+Minecraft+1.7.%2B+And+1.8.%2B&lang=en&timestamp=1432344801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to teleport In Minecraft 1.7.+ And 1.8.+")](https://www.youtube.com/watch?v=QlD9FwUGpi0)
+[![How to Make Colored Text On Minecraft 1.7.+](https://ytcards.demolab.com/?id=ayfR-Vcxfrk&title=How+to+Make+Colored+Text+On+Minecraft+1.7.%2B&lang=en&timestamp=1432334616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Make Colored Text On Minecraft 1.7.+")](https://www.youtube.com/watch?v=ayfR-Vcxfrk)
+[![How to Change Disc Music In Minecraft 1.7 .+ Easiest Way Of Converting File to OGG UPDATED](https://ytcards.demolab.com/?id=_c5wd2ojdqQ&title=How+to+Change+Disc+Music+In+Minecraft+1.7+.%2B+Easiest+Way+Of+Converting+File+to+OGG+UPDATED&lang=en&timestamp=1432177073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Change Disc Music In Minecraft 1.7 .+ Easiest Way Of Converting File to OGG UPDATED")](https://www.youtube.com/watch?v=_c5wd2ojdqQ)
 <!-- END YOUTUBE-CARDS -->
 
 ###
