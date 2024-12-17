@@ -7,6 +7,9 @@
 <img align="center" height="220" src="https://github.com/OrangeMintz/orangemintz/blob/main/GIF/Ougi.gif" />
 </div>
 
+<div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm...;If+you+can't+be+medicine,+be+poison.;" alt="Typing SVG" /></a>
+</div>
+
 <br>
 
 <h3 align="left">🌎 About Me :</h3>
@@ -36,9 +39,6 @@
     <a href="https://www.reddit.com/user/OrangeMintz/"> <img
             src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="reddit logo" /> </a>
-</div>
-
-<div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm...;If+you+can't+be+medicine,+be+poison.;" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="left">💻 Tech Stack :</h3>
@@ -80,14 +80,6 @@
 </div>
 
 ###
-<!-- BEGIN YOUTUBE-CARDS .-->
-<h3 align="left">🎶 My Featured Playlist:</h3>
-
-[![DVRST - Close Eyes](https://ytcards.demolab.com/?id=ao4RCon11eY&title=DVRST+-+Close+Eyes&timestamp=1612108800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=132 "DVRST - Close Eyes")](https://www.youtube.com/watch?v=ao4RCon11eY)
-[![ThxSoMch - SPIT IN MY FACE! (Official Audio)](https://ytcards.demolab.com/?id=ZtCOsQqrBrs&title=ThxSoMch+-+SPIT+IN+MY+FACE!+(Official+Audio)&lang=en&timestamp=1667232000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=170 "ThxSoMch - SPIT IN MY FACE! (Official Audio")](https://youtu.be/ZtCOsQqrBrs?si=eNojMdRTFyGXT0at)
-[![DVRST, Scarlxrd - Always Want Me](https://ytcards.demolab.com/?id=VJGwqhtMvnU&title=DVRST,+Scarlxrd+-+Always+Want+Me&lang=en&timestamp=1670601600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=250 "DVRST, Scarlxrd - Always Want Me")](https://www.youtube.com/watch?v=VJGwqhtMvnU)
-<!-- BEGIN YOUTUBE-CARDS .-->
-###
 
 <h3 align="left">📅 Productive Stats :</h3>
 <div align="center">
@@ -96,6 +88,14 @@
 <img src="https://raw.githubusercontent.com/OrangeMintz/orangemintz/output/snake.svg" alt="Snake animation" />
 </div>
 
+###
+<!-- BEGIN YOUTUBE-CARDS .-->
+<h3 align="left">🎶 My Featured Playlist:</h3>
+
+[![DVRST - Close Eyes](https://ytcards.demolab.com/?id=ao4RCon11eY&title=DVRST+-+Close+Eyes&timestamp=1612108800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=132 "DVRST - Close Eyes")](https://www.youtube.com/watch?v=ao4RCon11eY)
+[![ThxSoMch - SPIT IN MY FACE! (Official Audio)](https://ytcards.demolab.com/?id=ZtCOsQqrBrs&title=ThxSoMch+-+SPIT+IN+MY+FACE!+(Official+Audio)&lang=en&timestamp=1667232000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=170 "ThxSoMch - SPIT IN MY FACE! (Official Audio")](https://youtu.be/ZtCOsQqrBrs?si=eNojMdRTFyGXT0at)
+[![DVRST, Scarlxrd - Always Want Me](https://ytcards.demolab.com/?id=VJGwqhtMvnU&title=DVRST,+Scarlxrd+-+Always+Want+Me&lang=en&timestamp=1670601600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=250 "DVRST, Scarlxrd - Always Want Me")](https://www.youtube.com/watch?v=VJGwqhtMvnU)
+<!-- BEGIN YOUTUBE-CARDS .-->
 
 <h3 align="left">💲 Donations :</h3>
 <div align="center">
