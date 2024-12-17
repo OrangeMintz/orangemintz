@@ -10,16 +10,6 @@
 <div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm...;If+you+can't+be+medicine,+be+poison.;" alt="Typing SVG" /></a>
 </div>
 
-<br>
-
-<h3 align="left">🌎 About Me :</h3>
-
-- 🌱 I’m currently learning **Web Technologies, IoT Driven Projects and Ethical Hacking**
-- 🥅 2024 Goals: Accomplishing **Capstone 3** and learning The fundamentals of **Cyber Security**
-- ⚡ Fun fact: I love **FUMOs!**
-
-###
-
 <div align="center">
     <a href="https://www.youtube.com/@OrangeMintz"><img
             src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
@@ -40,6 +30,15 @@
             src="https://img.shields.io/static/v1?message=Reddit&logo=reddit&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge"
             height="35" alt="reddit logo" /> </a>
 </div>
+
+<br>
+
+<h3 align="left">🌎 About Me :</h3>
+<p align="justify">My name is Djeikuje Nickolai, and I am passionate about web development, IoT-Driven projects, ethical hacking, and game development. I have a keen interest in exploring the evolving landscape of technology and pushing the boundaries of innovation. My journey in tech has been a continuous learning process, driven by curiosity and a commitment to mastering diverse aspects of the field.</p>
+
+- 🌱 I’m currently learning **Web Technologies, IoT Driven Projects and Ethical Hacking**
+- 🥅 2024 Goals: Accomplishing **Capstone 3** and learning The fundamentals of **Cyber Security**
+- ⚡ Fun fact: I love **FUMOs!**
 
 <h3 align="left">💻 Tech Stack :</h3>
 
