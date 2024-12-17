@@ -81,7 +81,7 @@
 
 ###
 
-<!-- BEGIN YOUTUBE-CARD-->
+<!-- BEGIN YOUTUBE-CARDS-->
 <!-- END YOUTUBE-CARDS-->
 
 ###
