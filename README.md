@@ -11,7 +11,6 @@
 
 <h3 align="left">🌎 About Me :</h3>
 
-- 🔭 I’m currently 4th year student, working on my **Capstone Project**
 - 🌱 I’m currently learning **Web Technologies, IoT Driven Projects and Ethical Hacking**
 - 🥅 2024 Goals: Accomplishing **Capstone 3** and learning The fundamentals of **Cyber Security**
 - ⚡ Fun fact: I love **FUMOs!**
@@ -78,31 +77,16 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrangeMintz&locale=en&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMintz&theme=radical&layout=donut&card_width=320&hide_title=true" height="200" alt="languages donut chart"  />
-
 </div>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=OrangeMintz&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&show_icons=true&theme=radical&hide_rank=true" height="200" 
-alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com?user=OrangeMintz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-    
 <h3 align="left">📅 Productive Stats :</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&radius=8&theme=redical&area=true&order=5&custom_title=Daily%20Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&show_icons=true&theme=radical&hide_rank=true" height="200" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=OrangeMintz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 <img src="https://raw.githubusercontent.com/OrangeMintz/orangemintz/output/snake.svg" alt="Snake animation" />
 </div>
-
 
 
 <h3 align="left">💲 Donations :</h3>
