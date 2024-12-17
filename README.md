@@ -11,7 +11,6 @@
 
 <h3 align="left">🌎 About Me :</h3>
 
-- 🔭 I’m currently 4th year student, working on my **Capstone Project**
 - 🌱 I’m currently learning **Web Technologies, IoT Driven Projects and Ethical Hacking**
 - 🥅 2024 Goals: Accomplishing **Capstone 3** and learning The fundamentals of **Cyber Security**
 - ⚡ Fun fact: I love **FUMOs!**
@@ -39,7 +38,7 @@
             height="35" alt="reddit logo" /> </a>
 </div>
 
-<div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm...;Also%2C+I+love+my+%E2%99%A1Fumo%E2%99%A1" alt="Typing SVG" /></a>
+<div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm...;If+you+can't+be+medicine+be+poison" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="left">💻 Tech Stack :</h3>
@@ -72,14 +71,6 @@
   <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/f14e32" height="40" alt="git logo"  />
-  
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrangeMintz&locale=en&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMintz&theme=radical&layout=donut&card_width=320&hide_title=true" height="200" alt="languages donut chart"  />
-
-</div>
 
 ###
 
@@ -88,15 +79,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=OrangeMintz&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="100" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&show_icons=true&theme=radical&hide_rank=true" height="200" 
 alt="stats graph"/>
   <img src="https://streak-stats.demolab.com?user=OrangeMintz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrangeMintz&locale=en&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMintz&theme=radical&layout=donut&card_width=320&hide_title=true" height="200" alt="languages donut chart"  />
+</div>
+
     
 <h3 align="left">📅 Productive Stats :</h3>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&radius=8&theme=redical&area=true&order=5&custom_title=Daily%20Contribution%20Graph&hide_border=false" height="400" alt="activity-graph graph"  />
