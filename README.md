@@ -30,8 +30,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrangeMintz&locale=en&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMintz&theme=radical&layout=donut&card_width=300&hide_title=true" height="200" alt="languages donut chart"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OrangeMintz&locale=en&layout=compact&card_width=320&langs_count=6&hide=css&theme=radical&hide_border=false&order=2&hide_title=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMintz&hide=css&theme=radical&layout=donut&card_width=300&hide_title=true" height="200" alt="languages donut chart"  />
 </div>
 
 ###
