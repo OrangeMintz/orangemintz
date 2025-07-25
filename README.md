@@ -38,8 +38,8 @@
 <h3 align="left">📅 Productive Stats :</h3>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OrangeMintz&theme=radical" width="95%"/>
-<img src="https://raw.githubusercontent.com/OrangeMintz/orangemintz/output/snake.svg"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&area=true&theme=github-compact&line=FE428E&point=A1F2EC&title_color=FE428E&area_color=B28CB2&hide_border=true" width=95%\/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&area=true&theme=github-compact&line=FE428E&point=A1F2EC&title_color=FE428E&area_color=B28CB2&hide_border=true" width=95%/>
+<img src="https://raw.githubusercontent.com/OrangeMintz/orangemintz/output/snake.svg" width=100%/>
 
 ###
 
