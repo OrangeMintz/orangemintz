@@ -1,8 +1,13 @@
 <h1 align="center">"The Paragon of Virtue"</h1>
+
 <div align="center">
-    <img src="https://profile-counter.glitch.me/orangemintz/count.svg?" height="27" alt="visitors" />
+  <a href="monkeytype-readme.com/OrangeMintz/darling">
+  <img src="https://img.shields.io/badge/Monkeytype-145%20WPM-e0b114?style=for-the-badge&logo=monkeytype"style="height: 25px;"/></a>
+  <img src="https://komarev.com/ghpvc/?username=OrangeMintz&style=for-the-badge&color=orange"style="height: 25px;"/>
+  <img src="https://img.shields.io/discord/766446271396839435?style=flat-square&logo=Discord&logoColor=7289da&logoSize=auto&color=287e29" style="height: 25px;"/>
 </div>
 
+</div>
 <div align="center">
 <img align="center" height="220" src="https://github.com/OrangeMintz/orangemintz/blob/main/GIF/Ougi.gif" />
 </div>
