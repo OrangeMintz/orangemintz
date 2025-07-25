@@ -13,7 +13,7 @@
 <img align="center" height="250" src="https://github.com/OrangeMintz/orangemintz/blob/main/GIF/Ougi.gif" />
 </div>
 
-<div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Poorly+thinking+is+futile;If+you+can't+be+medicine,+be+poison.;" alt="Typing SVG" /></a>
+<div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1500&color=FE428E&center=true&vCenter=true&width=435&lines=Too+shallow,+poor+thing...;If+you+can't+be+medicine,+be+poison;Poorly+thinking+is+futile;" alt="Typing SVG" /></a>
 </div>
 
 ###
