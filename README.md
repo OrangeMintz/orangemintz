@@ -38,7 +38,7 @@
  
 <h3 align="left">📅 Productive Stats :</h3>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OrangeMintz&theme=radical" width="90%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OrangeMintz&theme=radical" width="95%"/>
 
 ![](https://raw.githubusercontent.com/OrangeMintz/orangemintz/output/snake.svg)
 
