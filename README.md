@@ -4,15 +4,16 @@
   <a href="monkeytype-readme.com/OrangeMintz/darling">
   <img src="https://img.shields.io/badge/Monkeytype-145%20WPM-e0b114?style=for-the-badge&logo=monkeytype"style="height: 25px;"/></a>
   <img src="https://komarev.com/ghpvc/?username=OrangeMintz&style=for-the-badge&color=orange"style="height: 25px;"/>
-  <img src="https://img.shields.io/discord/766446271396839435?style=flat-square&logo=Discord&logoColor=7289da&logoSize=auto&color=287e29" style="height: 25px;"/>
+  <img src="https://img.shields.io/discord/766446271396839435?style=flat-square&logo=Discord&logoColor=7289da&color=287e29" style="height: 25px;"/>
+  <a href="https://wakatime.com/@638e9ee6-773c-4719-866e-729b8c78f0ab"><img src="https://wakatime.com/badge/user/638e9ee6-773c-4719-866e-729b8c78f0ab.svg?style=for-the-badge" style="height: 25px" /></a>
 </div>
 
 </div>
 <div align="center">
-<img align="center" height="220" src="https://github.com/OrangeMintz/orangemintz/blob/main/GIF/Ougi.gif" />
+<img align="center" height="250" src="https://github.com/OrangeMintz/orangemintz/blob/main/GIF/Ougi.gif" />
 </div>
 
-<div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Learning+Ethical+Hacking+atm...;If+you+can't+be+medicine,+be+poison.;" alt="Typing SVG" /></a>
+<div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Poorly+thinking+is+futile;If+you+can't+be+medicine,+be+poison.;" alt="Typing SVG" /></a>
 </div>
 
 <br>
@@ -20,8 +21,7 @@
 <h3 align="left">🌎 About Me :</h3>
 <p align="justify">My name is Djeikuje Nickolai, and I am passionate about web development, IoT-Driven projects, ethical hacking, and game development. I have a keen interest in exploring the evolving landscape of technology and pushing the boundaries of innovation. My journey in tech has been a continuous learning process, driven by curiosity and a commitment to mastering diverse aspects of the field.</p>
 
-- 🌱 I’m currently learning **Web Technologies, IoT Driven Projects and Ethical Hacking**
-- 🥅 2024 Goals: Accomplishing **Capstone 3** and learning The fundamentals of **Cyber Security**
+- 🌱 Currently learning **Web Technologies, Web Scraping, and Game Modding**
 - ⚡ Fun fact: I love **FUMOs!**
 
 <h3 align="left">💻 Tech Stack :</h3>
@@ -30,7 +30,7 @@
 
 <div align="center">
     
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,blender,html,css,js,php,laravel,vite,express,nodejs,mongodb,mysql,postman,anaconda,arduino,java,kali,linux&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,html,css,js,python,php,laravel,vite,express,nodejs,mongodb,mysql,postman,anaconda,arduino,java,kali,linux&perline=10)](https://skillicons.dev)
 
 ###
 
