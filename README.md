@@ -8,6 +8,8 @@
   <a href="https://wakatime.com/@638e9ee6-773c-4719-866e-729b8c78f0ab"><img src="https://wakatime.com/badge/user/638e9ee6-773c-4719-866e-729b8c78f0ab.svg?style=for-the-badge" style="height: 25px" /></a>
 </div>
 
+###
+
 </div>
 <div align="center">
 <img align="center" height="250" src="https://github.com/OrangeMintz/orangemintz/blob/main/GIF/Ougi.gif" />
@@ -16,10 +18,10 @@
 <div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=FE428E&center=true&vCenter=true&width=435&lines=Repeating+by+trial+and+Error;Poorly+thinking+is+futile;If+you+can't+be+medicine,+be+poison.;" alt="Typing SVG" /></a>
 </div>
 
-<br>
+###
 
 <h3 align="left">🌎 About Me :</h3>
-<p align="justify">My name is Djeikuje Nickolai, and I am passionate about web development, IoT-Driven projects, ethical hacking, and game development. I have a keen interest in exploring the evolving landscape of technology and pushing the boundaries of innovation. My journey in tech has been a continuous learning process, driven by curiosity and a commitment to mastering diverse aspects of the field.</p>
+<p align="justify">My name is Djeikuje Nickolai, and I am passionate about web development, IoT-Driven projects, web scraping, ethical hacking, and game modding. My journey in tech has been a continuous learning process, driven by curiosity and a commitment to mastering diverse aspects of the field.</p>
 
 - 🌱 Currently learning **Web Technologies, Web Scraping, and Game Modding**
 - ⚡ Fun fact: I love **FUMOs!**
