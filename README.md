@@ -32,13 +32,13 @@
 ###
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&show_icons=true&theme=radical&rank_icon=github&hide_border=true&card_width=400" height="185"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OrangeMintz&theme=radical" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&show_icons=true&theme=radical&rank_icon=github&hide_border=true&card_width=350"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OrangeMintz&theme=radical"/>
 </div>
  
 <h3 align="left">📅 Productive Stats :</h3>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OrangeMintz&theme=radical" width="100%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OrangeMintz&theme=radical" width="90%"/>
 
 ![](https://raw.githubusercontent.com/OrangeMintz/orangemintz/output/snake.svg)
 
