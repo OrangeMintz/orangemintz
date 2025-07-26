@@ -46,7 +46,5 @@
 <h3 align="left">💲 Donations :</h3>
 
 <div align="center">
-    <a href="https://paypal.me/OrangeMint57?country.x=PH&locale.x=en_US"><img
-            src="https://img.shields.io/static/v1?message=Paypal&logo=paypal&label=&color=0079C1&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="paypal logo" /> </a>
+    <a href="https://paypal.me/OrangeMint57?country.x=PH&locale.x=en_US"><img src="https://img.shields.io/static/v1?message=Paypal&logo=paypal&label=&color=0079C1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo" /> </a>
 </div>
