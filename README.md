@@ -31,8 +31,8 @@
 ###
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&show_icons=true&theme=radical&rank_icon=github&hide_border=true&card_width=500" height=200/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMintz&layout=compact&theme=radical&hide_border=true&card_width=400" height=200/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&show_icons=true&theme=radical&rank_icon=github&hide_border=true&card_width=400" height=200/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMintz&layout=compact&theme=radical&hide_border=true&card_width=300" height=200/>
 
 </div>
  
