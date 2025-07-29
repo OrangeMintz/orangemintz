@@ -31,8 +31,9 @@
 ###
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&show_icons=true&theme=radical&rank_icon=github&hide_border=true&card_width=450"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OrangeMintz&theme=radical&exclude=blade"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&show_icons=true&theme=radical&rank_icon=github&hide_border=true&card_width=500" height=200/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMintz&layout=compact&theme=radical&hide_border=true&card_width=400" height=200/>
+
 </div>
  
 <h3 align="left">👨‍💻 Coding Activity :</h3>
