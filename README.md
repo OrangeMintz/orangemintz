@@ -26,7 +26,7 @@
 
 <div align="center">
     
-[![TechStack](https://skillicons.dev/icons?i=git,github,figma,html,css,js,python,php,laravel,vite,express,nodejs,mongodb,mysql,postman,anaconda,arduino,java,kali,linux&perline=10)](https://skillicons.dev)
+[![TechStack](https://skillicons.dev/icons?i=git,github,discordjs,bots,js,ts,python,php,java,react,laravel,nodejs,flask,mongodb,mysql,postgres,firebase,redis,arduino,kali&perline=10)](https://skillicons.dev)
 
 ###
 
