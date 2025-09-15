@@ -19,7 +19,7 @@
 
 <p align="justify">My name is Djeikuje Nickolai, and I am passionate about web development, IoT-Driven projects, web scraping, ethical hacking, and game modding. My journey in tech has been a continuous learning process, driven by curiosity and a commitment to mastering diverse aspects of the field.</p>
 
-- 🌱 Currently learning **Web Technologies, Web Scraping, and Game Modding**
+- 🌱 Currently learning **Web Technologies, Web Scraping, Game Modding, Buildling LLM's and AI Integration**
 - ⚡ Fun fact: I love **FUMOs!**
 
 ### 💻 Tech Stack :
