@@ -34,6 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OrangeMintz&show_icons=true&theme=radical&rank_icon=github&hide_border=true&card_width=400" height=200/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeMintz&layout=compact&theme=radical&hide_border=true&card_width=300&hide=scss,blade,html,css,c,less" height=200/>
 </div>
+
 <h3 align="left">👨‍💻 Coding Activity :</h3>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OrangeMintz&theme=radical" width="100%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=OrangeMintz&area=true&theme=github-compact&line=FE428E&point=A1F2EC&title_color=FE428E&area_color=B28CB2&bg_color=141321&hide_border=true" width=100%/>
