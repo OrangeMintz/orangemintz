@@ -11,6 +11,7 @@
 <div align="center">
 <img align="center" height="250" src="https://github.com/OrangeMintz/orangemintz/blob/main/GIF/Ougi.gif" />
 </div>
+
 <div align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1500&color=FE428E&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+profile!;If+you+can't+be+medicine,+be+poison;Poorly+thinking+is+futile;" alt="Typing SVG" /></a>
 </div>
 
@@ -24,7 +25,7 @@
 ### 💻 Tech Stack :
 
 <div align="center">
-    
+  
 [![TechStack](https://skillicons.dev/icons?i=git,github,discordjs,bots,js,ts,python,php,java,react,laravel,nodejs,flask,mongodb,mysql,postgres,firebase,redis,arduino,kali&perline=10)](https://skillicons.dev)
 
 ###
