@@ -8,7 +8,6 @@
 </div><br>
 
 </div>
-
 <div align="center">
 <img align="center" height="250" src="https://github.com/OrangeMintz/orangemintz/blob/main/GIF/Ougi.gif" />
 </div>
