@@ -22,10 +22,23 @@
 - 🌱 Currently learning **Web Technologies, Web Scraping, Game Modding, Buildling LLM's and AI Integration**
 - ⚡ Fun fact: I love **FUMOs!**
 
+<div align="center">
+  <a href="https://github.com/Kuje-SSR">
+    <img 
+      src="https://img.shields.io/badge/KUJE--SSR-brightgreen?style=social&logoColor=white&label=ALT" 
+      alt="WORK ACCOUNT" 
+      width="200"
+    />
+  </a>
+
+</div>
+
+###
+
 ### 💻 Tech Stack :
 
 <div align="center">
-  
+
 [![TechStack](https://skillicons.dev/icons?i=git,github,discordjs,bots,js,ts,python,php,java,react,laravel,nodejs,flask,mongodb,mysql,postgres,firebase,redis,arduino,kali&perline=10)](https://skillicons.dev)
 
 ###
