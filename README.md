@@ -23,9 +23,9 @@
 - ⚡ Fun fact: I love **FUMOs!**
 
 <div align="center">
-  <a href="https://github.com/Kuje-SSR">
+  <a href="https://github.com/OrangeMintz-LF">
     <img 
-      src="https://img.shields.io/badge/KUJE--SSR-brightgreen?style=social&logoColor=white&label=ALT" 
+      src="https://img.shields.io/badge/KUJE--LF-brightgreen?style=social&logoColor=white&label=ALT" 
       alt="WORK ACCOUNT" 
       width="200"
     />
